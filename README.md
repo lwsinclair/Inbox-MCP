@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/darinkishore-inbox-mcp-badge.png)](https://mseep.ai/app/darinkishore-inbox-mcp)
+
 # Inbox MCP
 
 Transform your inbox into an intelligent, LLM-powered assistant—**instantly**.
